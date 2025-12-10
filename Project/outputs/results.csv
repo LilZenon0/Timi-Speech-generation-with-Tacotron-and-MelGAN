@@ -1,0 +1,6 @@
+idx,text,out_wav,duration_s,tacotron_s,vocoder_s,total_time_s,RTF,MCD_dB,mel_L2
+0,"Hello, this is a test sentence.",outputs/wavs/0000.wav,2.380045351,0.406424999,0.042464256,0.448889256,0.188605337,,
+1,The quick brown fox jumps over the lazy dog.,outputs/wavs/0001.wav,3.1230839,0.319260836,0.024335146,0.343595982,0.110018172,,
+2,Text to speech synthesis using Tacotron2 and MelGAN.,outputs/wavs/0002.wav,3.517823129,0.331628084,0.025990486,0.35761857,0.101659054,,
+3,This is sample number four.,outputs/wavs/0003.wav,1.764716553,0.164741755,0.019727945,0.1844697,0.104532198,,
+4,Neural networks can generate high quality audio.,outputs/wavs/0004.wav,3.204353741,0.292902708,0.018648386,0.311551094,0.097227435,,
